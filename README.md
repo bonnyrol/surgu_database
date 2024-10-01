@@ -1,1 +1,1 @@
-!(misc/images/screenshot_2.png)
+![](misc/images/Screenshot_2.png)
